@@ -19,7 +19,6 @@ class Home extends BaseController
             . view('pages/index/testimonial')
             // Estrutura Footer
             . view('template/footer/footer')
-            . view('template/footer/pdp')
             . view('template/footer/footer-js');
     }
     // public function enviar()
