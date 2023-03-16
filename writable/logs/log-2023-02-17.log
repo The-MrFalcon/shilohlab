@@ -1,0 +1,48 @@
+CRITICAL - 2023-02-17 15:03:28 --> Invalid escape context provided.
+in SYSTEMPATH\Common.php on line 433.
+ 1 APPPATH\Views\template\pages\blog\page-blog.php(14): esc('<div class=\'post-teaser\'>
+            <p>A técnica de inseminação artificial é um procedimento de reprodução assistida de baixa complexidade, que funciona da seguinte forma: O sêmen é introduzido no útero da paciente, durante seu período fértil, mas anteriormente é feito um preparo no laboratório.</p>
+     <p>A paciente passa por um tratamento de estimulação ovariana, com o objetivo de aumentar o número de óvulos liberados, e o esperma passar por processo seminal, para selecionar os melhores espermatozoides para serem utilizados no tratamento.</p>
+     <p>Se o sêmen for do parceiro ou de um doador anônimo, a inseminação artificial é classificada de duas formas:</p>
+     <p><strong>Inseminação Artificial Homóloga</strong></p>
+     <p>Também conhecida de intraconjugal, a inseminação artificial homóloga é quando a paciente utiliza o sêmen do esposo ou companheiro.</p>
+     <p><strong>Inseminação Artificial Heteróloga</strong></p>
+     <p>Já a inseminação artificial heteróloga é quando a paciente utiliza o sêmen de um doador. Essa prática é mais utilizada por mulheres solteiras ou casais homossexuais femininos.</p>
+     <p>Quando a infertilidade é de fator masculino, o casal pode recorrer ao banco de doações de sêmen, através da doação de espermatozoides será possível a realização dos tratamentos de reprodução assistida como a inseminação artificial e Fertilização In Vitro</p>
+     <p>A doação de sêmen é indicada para:</p>
+     <ul>
+     <li>Homens que possuem ausência total de espermatozoides no sêmen ejaculado (azoospermia).</li>
+     <li>Pacientes que teve a sua fertilidade comprometida após procedimento cirúrgico ou oncológico (quimioterapia).</li>
+     <li>Gestação independente – mulheres que desejam ser mães solteiras, podem solicitar a doação de sêmen para engravidar sem a necessidade de um parceiro.</li>
+     <li>Casais homoafetivos femininos</li>
+     </ul>
+     <p>No Brasil, os bancos de sêmen para doação encontram-se em clínicas particulares e hospitais.</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>
+     <p>&nbsp;</p>', 'php')
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\pages\\blog\\page-blog.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/pages/blog/page-blog', [], true)
+ 5 APPPATH\Controllers\Blog.php(325): view('template/pages/blog/page-blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Blog->procedimento_ia()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-17 15:50:22 --> Undefined variable $foto
+in APPPATH\Views\template\pages\blog\page-blog.php on line 11.
+ 1 APPPATH\Views\template\pages\blog\page-blog.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $foto', 'APPPATH\\Views\\template\\pages\\blog\\page-blog.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\pages\\blog\\page-blog.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/pages/blog/page-blog', [], true)
+ 5 APPPATH\Controllers\Blog.php(390): view('template/pages/blog/page-blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Blog->preservacao_fertilidade_feminina()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')

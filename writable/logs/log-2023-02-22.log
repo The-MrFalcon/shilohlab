@@ -1,0 +1,130 @@
+CRITICAL - 2023-02-22 14:34:03 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 15:09:58 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 15:13:33 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 15:14:46 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 15:28:12 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 15:35:39 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:06:18 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:33:07 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:33:30 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:42:33 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(66): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:43:50 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(64): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:49:47 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(64): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-22 16:51:07 --> Invalid file: "template/header/header-html.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header/header-html.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header-html', [], true)
+ 3 APPPATH\Controllers\Home.php(64): view('template/header/header-html')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')

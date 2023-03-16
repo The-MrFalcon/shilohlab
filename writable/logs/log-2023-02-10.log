@@ -1,0 +1,22 @@
+CRITICAL - 2023-02-10 12:42:32 --> Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\template\header\header.php on line 110.
+ 1 APPPATH\Views\template\header\header.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'APPPATH\\Views\\template\\header\\header.php', 110)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\template\\header\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/header/header', [], true)
+ 5 APPPATH\Controllers\Clinic.php(9): view('template/header/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Clinic->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-10 14:33:26 --> Invalid file: "template/pages/clinic/kessia.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/pages/clinic/kessia.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/pages/clinic/kessia', [], true)
+ 3 APPPATH\Controllers\Clinic.php(22): view('template/pages/clinic/kessia')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Clinic->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')

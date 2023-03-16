@@ -1,0 +1,10 @@
+CRITICAL - 2023-02-16 14:17:48 --> Invalid file: "template/pages/ovodoacao/ovodoacao.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/pages/ovodoacao/ovodoacao.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('template/pages/ovodoacao/ovodoacao', [], true)
+ 3 APPPATH\Controllers\Ovodoacao.php(11): view('template/pages/ovodoacao/ovodoacao')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ovodoacao->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ovodoacao))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
