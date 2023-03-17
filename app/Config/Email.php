@@ -28,17 +28,17 @@ class Email extends BaseConfig
     /**
      * SMTP Server Address
      */
-    public string $SMTPHost ='smtp.hostinger.com';
+    public string $SMTPHost ='';
 
     /**
      * SMTP Username
      */
-    public string $SMTPUser ='no-reply@shilohfertilidade.com.br';
+    public string $SMTPUser ='';
 
     /**
      * SMTP Password
      */
-    public string $SMTPPass ='No-reply@23';
+    public string $SMTPPass ='';
 
     /**
      * SMTP Port
