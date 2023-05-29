@@ -7,7 +7,7 @@
         <i class="fa-solid fa-envelope"></i>
     </a>
     <a href="https://www.facebook.com/laboratorioshiloh/" target="_blank" class="facebook"><i class="fab fa-facebook"></i></a>
-    <a href="https://api.whatsapp.com/send?phone=5511973913314" class="zap" target="_blank">
+    <a data-bs-toggle="modal" data-bs-target="#contact" class="zap">
         <i class="fab fa-whatsapp"></i>
     </a>
 </div>
@@ -108,3 +108,26 @@
 
 <!-- Back to Top -->
 <a href="#" class="btn btn-lg btn-light btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+<!-- Modal Horários -->
+<div class="modal fade profile" id="contact" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="text-center" id="exampleModalLabel"><i class="fab fa-whatsapp me-1"></i> Contatos</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modaldy row d-flex justify-content-center">
+                    <a class="col-5 mx-2 mb-2 btn btn-outline-red" href="https://api.whatsapp.com/send?phone=5521992877572" target="_blank"><b>Copacabana</b> <br> (21) 99877572</a>
+                    <a class="col-5 mx-2 mb-2 btn btn-outline-dark" href="https://api.whatsapp.com/send?phone=5521999227077" target="_blank"><b>Barra </b> <br> (21) 999227077</a>
+                    <a class="col-5 mx-2 mb-2 btn btn-outline-red" href="https://api.whatsapp.com/send?phone=3198004325" target="_blank"><b>Belo Horizonte</b> <br> (31) 98004325</a>
+                    <a class="col-5 mx-2 mb-2 btn btn-outline-dark" href="https://api.whatsapp.com/send?phone=4191908130" target="_blank"><b>Copacabana</b> <br> (41) 91908130</a>
+                    <a class="col-10 mx-2 mb-2 btn btn-outline-red" href="https://api.whatsapp.com/send?phone=5511973913314" target="_blank"><b>SP - Tatuapé</b> <br> (11) 97391-3314</a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="button btn btn-secondary" data-bs-dismiss="modal"><i class="fa-solid fa-x"></i> <span>Fechar</span> </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Horários End -->

@@ -7,7 +7,8 @@
                     <img class="position-absolute rounded img-fluid w-100 h-100" src="img/about.png" style="object-fit: cover;" alt="">
                 </div>
                 <div class="text-center desktop mt-1">
-                    <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3" href="https://api.whatsapp.com/send?phone=5511976862826" target="_blank">Agende já seus exames!</a>
+                    <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3" data-bs-toggle="modal" data-bs-target="#contact">Agende já seus exames!</a>
+
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -76,7 +77,7 @@
                     </div>
                 </div>
                 <div class="text-center mobile mt-1">
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="https://api.whatsapp.com/send?phone=5511976862826" target="_blank">Agende já seus exames!</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" data-bs-toggle="modal" data-bs-target="#contact">Agende já seus exames!</a>
                 </div>
             </div>
         </div>

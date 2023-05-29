@@ -3691,6 +3691,17 @@ fieldset:disabled .btn {
     border-color: #EFF5FF
 }
 
+.btn-outline-red {
+    color: #66140C;
+    border-color: #66140C
+}
+
+.btn-outline-red:hover {
+    color: #fff;
+    background-color: #66140C;
+    border-color: #66140C
+}
+
 .btn-check:focus+.btn-outline-light,
 .btn-outline-light:focus {
     box-shadow: 0 0 0 .25rem rgba(239, 245, 255, 0.5)

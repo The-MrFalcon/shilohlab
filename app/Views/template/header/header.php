@@ -56,14 +56,10 @@
                 </div>
             </div>
             <div class="col-lg-4 px-5 text-end">
-                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <small class="fa fa-phone-alt text-dark me-2"></small>
-                    <small> (11) 97391-3314</small>
-                </div>
                 <div class="h-100 d-inline-flex align-items-center">
+                    <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-bs-toggle="modal" data-bs-target="#contact"><i class="fa-regular fab fa-whatsapp"></i></a></small>
                     <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.1s" href="https://www.instagram.com/shiloh_lab/"><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.3s" href="https://www.facebook.com/goshenlab"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.5s" href="https://api.whatsapp.com/send?phone=5511973913314"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>
@@ -150,7 +146,7 @@
 
             </div>
             <div class="d-grid gap-2 px-2 d-md-flex justify-content-md-end">
-                <a href="https://api.whatsapp.com/send?phone=5511973913314" type="button" class="p-2 btn btn-outline-dark"><i class="fa-solid fa-calendar-check me-1"></i>Agendar exames</a>
+                <a data-bs-toggle="modal" data-bs-target="#contact" type="button" class="p-2 btn btn-outline-dark"><i class="fa-solid fa-calendar-check me-1"></i>Agendar exames</a>
                 <a href="https://portal.worklabweb.com.br/resultados-on-line/945" type="button" class="p-2 btn btn-outline-dark"><i class="fa-solid fa-file-waveform me-1"></i>Resultados exames</a>
             </div>
         </div>

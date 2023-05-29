@@ -15,7 +15,7 @@
                      <p class="mb-4">O Saúde Kids, foi criado com o objetivo de proporcionar qualidade de vida às crianças, infelizmente nos dias atuais tem apresentado um nível elevado de sintomas alérgicos.</p>
                      <p class="mb-4">Através do Check-up Alérgico, é possível identificar de forma rápida e eficaz qualquer diagnóstico suspeito de alergia.</p>
                      <p>O laboratório ShilohLab disponibiliza exames de RAST com qualidade e excelência, com o intuito de levar para as crianças mais saúde e bem estar.</p>
-                     <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3 zoomOut" href="https://api.whatsapp.com/send?phone=5511976862826" target="_blank">Agende já seus exames!</a>
+                     <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3" data-bs-toggle="modal" data-bs-target="#contact">Agende já seus exames!</a>
                  </div>
              </div>
          </div>

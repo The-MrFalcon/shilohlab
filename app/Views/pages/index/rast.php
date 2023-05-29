@@ -14,7 +14,8 @@
                      <p class="mb-4"><b><i>O que é RAST?</i></b></p>
                      <p class="mb-4">É um exame de sangue, recomendado para detectar a presença de anticorpos IgE específicos (responsáveis pela alergia) no sangue que são suspeitos por desencadear uma alergia.</p>
                      <p>Ele pode ser utilizado para verificar a existência de diferentes tipos de alergias como alergias alimentares, alergias a medicamentos, alergias sazonais e alergias a animais.</p>
-                     <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3" href="https://api.whatsapp.com/send?phone=5511976862826" target="_blank">Agende já seus exames!</a>
+                                          <a class="btn btn-outline-primary rounded-pill py-3 px-5 mt-3" data-bs-toggle="modal" data-bs-target="#contact">Agende já seus exames!</a>
+
                  </div>
              </div>
          </div>
