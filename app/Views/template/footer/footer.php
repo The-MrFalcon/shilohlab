@@ -44,12 +44,12 @@
                 <h2 class="text-white mb-4 uppercased">Contato</h2>
                 <div class="break"></div>
                 <a class="mb-2 badge btn btn-outline-light wow fadeIn" href="https://goo.gl/maps/Z3iVxvNU1ZT9KDbm6" target="_blank" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>R. Torrinha, 131 - São Paulo – SP – 03332-010</a>
-                <a class="mb-2 btn btn-outline-light wow fadeIn" href="https://api.whatsapp.com/send?phone=5511973913314" target="_blank" data-wow-delay="0.3s"><i class="fa fa-phone-alt me-2"></i> (11) 97391-3314</a>
+                <a class="mb-2 btn btn-outline-light wow fadeIn" data-bs-toggle="modal" data-bs-target="#contact" data-wow-delay="0.3s"><i class="fa fa-phone-alt me-2"></i> Telefones</a>
                 <p class="mb-2 wow fadeIn" data-wow-delay="0.5s"><i class="fa fa-envelope me-2"></i>atendimento@shilohlab.com.br</p>
                 <div class="d-flex pt-2 mb-4" style="justify-content: center;">
                     <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.1s" href="https://www.instagram.com/shiloh_lab/"><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.3s" href="https://www.facebook.com/laboratorioshiloh/"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.5s" href="https://api.whatsapp.com/send?phone=5511973913314"><i class="fab fa-whatsapp"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-dark me-1" data-wow-delay="0.5s" data-bs-toggle="modal" data-bs-target="#contact"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
             <!-- <div class="col-lg-3 col-md-6">
