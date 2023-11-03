@@ -19,7 +19,9 @@ class Home extends BaseController
             . view('pages/index/testimonial')
             // Estrutura Footer
             . view('template/footer/footer')
-            . view('template/footer/footer-js');
+            . view('template/footer/footer-js')
+            . view('pages/modal/contato')
+            . view('pages/modal/endereco');
     }
     // public function enviar()
     // {

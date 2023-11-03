@@ -3,6 +3,9 @@
     <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
         <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
             <div class="owl-carousel header-carousel">
+            <div class="owl-carousel-item position-relative focus">
+                    <img class="img-fluid" src="img/siteshilohlab.png" alt="">
+                </div>
                 <div class="owl-carousel-item position-relative">
                     <img class="img-fluid" src="img/1-1.png" alt="">
                     <div class="owl-carousel-text">
